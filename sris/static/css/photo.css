@@ -1,0 +1,16 @@
+img{
+  width: 30%;
+  height: 180px;
+  float: left;
+  margin:1.5%;
+  border-color: green solid 20px;
+
+
+}
+
+body{
+  background-color: #f4428c;
+}
+h1{
+text-align: center;
+}
